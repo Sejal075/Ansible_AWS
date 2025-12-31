@@ -110,3 +110,12 @@ Sejal Umredkar
 DevOps | Cloud | Automation
 
 ## Output 
+Master node:
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/5408c685-778e-44c8-b665-462098d378da" />
+
+Slave node: 
+<img width="1366" height="768" alt="slave" src="https://github.com/user-attachments/assets/96413cae-6cdd-451d-bdbb-f85b16c826bc" />
+
+Outcome:
+<img width="1366" height="768" alt="outcome" src="https://github.com/user-attachments/assets/e7af2172-392a-467d-8b5f-aa7e632089bd" />
+
