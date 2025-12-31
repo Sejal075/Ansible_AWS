@@ -111,10 +111,10 @@ DevOps | Cloud | Automation
 
 ## Output 
 Master node:
-<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/5408c685-778e-44c8-b665-462098d378da" />
+<img width="1366" height="631" alt="master" src="https://github.com/user-attachments/assets/e2d0ad79-14f2-497f-87ce-20b039b16056" />
 
 Slave node: 
-<img width="1366" height="768" alt="slave" src="https://github.com/user-attachments/assets/96413cae-6cdd-451d-bdbb-f85b16c826bc" />
+<img width="1366" height="636" alt="slave" src="https://github.com/user-attachments/assets/d84a6bdd-5db2-4048-9d80-40e068bf250a" />
 
 Outcome:
 <img width="1366" height="768" alt="outcome" src="https://github.com/user-attachments/assets/e7af2172-392a-467d-8b5f-aa7e632089bd" />
